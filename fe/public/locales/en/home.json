@@ -1,0 +1,18 @@
+{
+  "languageButtons": {
+    "en": "English",
+    "ro": "Romanian"
+  },
+  "navbar": {
+    "about": "About the game",
+    "teamRegistration": "Team registration",
+    "gameResults": "Game results",
+    "corporateGames": "Corporate games",
+    "teams": "Teams",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register"
+  },
+  "logout": "Logout"
+}

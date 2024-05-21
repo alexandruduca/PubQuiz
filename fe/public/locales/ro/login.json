@@ -1,0 +1,9 @@
+{
+  "title": "Autentifică-te",
+  "username": "Nume de utilizator",
+  "password": "Parolă",
+  "loginButton": "Autentifică-te",
+  "errors": {
+    "WRONG_CREDENTIALS": "Numele de utilizator sau parola sunt greșite"
+  }
+}

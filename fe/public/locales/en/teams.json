@@ -1,0 +1,69 @@
+{
+  "myTeam": "My team",
+  "teams": "Teams",
+  "noTeams": "No teams available.",
+  "members": "Members",
+  "joinRequests": "Join requests",
+  "statistics": {
+    "title": "Team statistics",
+    "generalTitle": "General statistics",
+    "firstPlace": "Wins: {{places}}",
+    "secondPlace": "2nd places: {{places}}",
+    "thirdPlace": "3rd places: {{places}}",
+    "averagePlace": "Average place: {{places}}",
+    "bestConnectionTeam": "The team with best connection results: {{teamName}} - average of {{points}} points",
+    "bestJokerTeam": "The team with the best placed joker: {{teamName}} - average of {{points}} points",
+    "leaderboard": {
+      "title": "Leaderboard",
+      "first": "1st team: {{teamName}}",
+      "second": "2nd team: {{teamName}}",
+      "third": "3rd team: {{teamName}}"
+    }
+  },
+  "createTeam": {
+    "title": "Create team",
+    "content": "Please enter the team name:",
+    "actionName": "Create",
+    "label": "Team name"
+  },
+  "deleteTeam": {
+    "title": "Delete team",
+    "content": "Are you sure you want to delete team {{teamName}}?",
+    "actionName": "Delete"
+  },
+  "leaveTeam": {
+    "title": "Leave team",
+    "content": "Are you sure you want to leave team {{teamName}}?",
+    "actionName": "Leave"
+  },
+  "kickMember": {
+    "title": "Kick member",
+    "content": "Are you sure you want to kick {{username}}?",
+    "actionName": "Kick"
+  },
+  "assignLeader": {
+    "title": "Assign leader",
+    "content": "Are you sure you want to assign {{username}} as leader?",
+    "actionName": "Assign"
+  },
+  "acceptMember": {
+    "title": "Accept member",
+    "content": "Are you sure you want to accept {{username}} into the team?",
+    "actionName": "Accept"
+  },
+  "declineMember": {
+    "title": "Decline member",
+    "content": "Are you sure you want to decline {{username}}'s request?",
+    "actionName": "Decline"
+  },
+  "buttons": {
+    "joinTeam": "Join team",
+    "deleteTeam": "Delete team",
+    "createTeam": "Create team",
+    "leaveTeam": "Leave team",
+    "kickMember": "Kick",
+    "leader": "Assign as Leader",
+    "accept": "Accept",
+    "decline": "Decline"
+  }
+}

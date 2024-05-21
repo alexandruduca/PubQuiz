@@ -1,0 +1,69 @@
+{
+  "myTeam": "Echipa mea",
+  "teams": "Echipe",
+  "noTeams": "Nicio echipă disponibilă.",
+  "members": "Membri",
+  "joinRequests": "Cereri de înscriere",
+  "statistics": {
+    "title": "Statisticile echipei",
+    "generalTitle": "Statistici generale",
+    "firstPlace": "Victorii: {{places}}",
+    "secondPlace": "Locuri 2: {{places}}",
+    "thirdPlace": "Locuri 3: {{places}}",
+    "averagePlace": "Poziție medie: {{places}}",
+    "bestConnectionTeam": "Echipa cu cele mai bune rezultate la runda de conexiune: {{teamName}} - medie de {{points}} puncte",
+    "bestJokerTeam": "Echipa cu cel mai bine plasat joker: {{teamName}} - medie de {{points}} puncte",
+    "leaderboard": {
+      "title": "Clasament",
+      "first": "Locul 1: {{teamName}}",
+      "second": "Locul 2: {{teamName}}",
+      "third": "Locul 3: {{teamName}}"
+    }
+  },
+  "createTeam": {
+    "title": "Creează echipa",
+    "content": "Introdu numele:",
+    "actionName": "Creează",
+    "label": "Nume echipă"
+  },
+  "deleteTeam": {
+    "title": "Șterge echipa",
+    "content": "Ești sigur că vrei să ștergi echipa {{teamName}}?",
+    "actionName": "Șterge"
+  },
+  "leaveTeam": {
+    "title": "Părăsește echipa",
+    "content": "Ești sigur că vrei să părăsești echipa {{teamName}}?",
+    "actionName": "Părăsește"
+  },
+  "kickMember": {
+    "title": "Înlătură membru",
+    "content": "Ești sigur că vrei să-l înlături pe {{username}}?",
+    "actionName": "Înlătură"
+  },
+  "assignLeader": {
+    "title": "Alege ca lider",
+    "content": "Ești sigur că vrei să-i oferi rolul de lider lui {{username}}?",
+    "actionName": "Alege"
+  },
+  "acceptMember": {
+    "title": "Acceptă membru",
+    "content": "Accepți cererea lui {{username}} de a intra în echipă?",
+    "actionName": "Acceptă"
+  },
+  "declineMember": {
+    "title": "Respinge membru",
+    "content": "Respingi cererea lui {{username}} de a intra în echipă?",
+    "actionName": "Respinge"
+  },
+  "buttons": {
+    "joinTeam": "Alătură-te",
+    "deleteTeam": "Șterge echipa",
+    "createTeam": "Creează echipa",
+    "leaveTeam": "Părăsește echipa",
+    "kickMember": "Înlătură",
+    "leader": "Alege ca lider",
+    "accept": "Acceptă",
+    "decline": "Respinge"
+  }
+}

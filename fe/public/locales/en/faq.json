@@ -1,0 +1,24 @@
+{
+  "title": "Frequently asked questions",
+  "description": "Whether you want to learn how to play, understand our score system, or anything else, you'll find useful information here. We've developed a collection of frequently asked questions to help make your experience easier and more enjoyable.",
+  "first": {
+    "question": "What is the structure of a game and how is it played?",
+    "answer": "The questions are organized into rounds that are distinguished from one another by their particular themes or formats. A played set typically consists of six rounds, with eight questions in each round. Teams can debate the question and determine the right answer for around a minute (the amount of time may vary depending on complexity). Teams may observe the question wording on screens in the pub for the full minute. Teams turn in their sheets, which contain their written responses, for verification at the end of each round. Because answer verification occurs after each round rather than after each question, teams are encouraged to discuss any possible questions from the current round at any time."
+  },
+  "second": {
+    "question": "I don't have a team. Can I participate to an event?",
+    "answer": "Sure! If you want to participate, please contact the organizers so that they can look for a team that is short on members."
+  },
+  "third": {
+    "question": "What is the scoring system used?",
+    "answer": "Two points are awarded for a correct answer; one point may be awarded for an answer conceptually close to the correct answer but not quite precise. The game organizers have the final say on whether to give answers two points or one point. Teams are awarded no points for providing a wrong response, but they also aren't given a penalty."
+  },
+  "fourth": {
+    "question": "What happens in case of equality between two teams?",
+    "answer": "In such cases, we use the following criterion: we evaluate the results on each round, starting from the end of the game, until we can conclude on a winner."
+  },
+  "fifth": {
+    "question": "What makes Quiz Iași different from the standard Pub Quiz?",
+    "answer": "The typical Pub Quiz (inspired by the British model) heavily relies on the recall/retrieval of information from memory, without requiring additional mental effort. On the other hand, Quiz Iași is more focused on the logical component of a question, encouraging the teamwork and argumentative team discussions."
+  }
+}

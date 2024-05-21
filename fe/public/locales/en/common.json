@@ -1,0 +1,33 @@
+{
+  "modal": {
+    "cancel": "Cancel"
+  },
+  "snackbarMessage": {
+    "success": "Your request was successful.",
+    "error": "There was a problem, please try again.",
+    "CREDENTIALS_REQUIRED": "Your session has expired. Please login again.",
+    "GAME_UPDATED_SUCCESSFULLY": "The game was updated successfully.",
+    "GAME_CREATED_SUCCESSFULLY": "The game was added successfully.",
+    "GAME_DELETED_SUCCESFULLY": "The game was deleted successfully.",
+    "GAME_ALREADY_EXISTS": "The game with this season and game number already exists.",
+    "REGISTER_SUCCESS": "The account was created successfully.",
+    "USERNAME_ALREADY_EXISTS": "There is already an account with this username.",
+    "EMAIL_ALREADY_EXISTS": "There is already an account with this email.",
+    "TEAM_CREATED_SUCCESSFULLY": "The team was created successfully.",
+    "TEAM_ALREADY_EXISTS": "The team with this name already exists. Enter a different team name.",
+    "JOIN_TEAM_REQUEST": "Your request to join the team has been sent successfully.",
+    "JOIN_REQUEST_ALREADY_SENT": "You already requested to join this team.",
+    "TEAM_DELETED_SUCCESSFULLY": "Team was deleted successfully.",
+    "TEAM_NOT_DELETED": "Unable to delete the team.",
+    "JOIN_REQUEST_ACCEPTED": "The member was accepted to the team.",
+    "JOIN_REQUEST_DECLINED": "The member was not accepted to the team.",
+    "TEAM_LEFT_SUCCESSFULLY": "You left the team successfully.",
+    "KICK_MEMBER_SUCCESSFULLY": "The member was kicked from the team.",
+    "LEADER_UPDATED_SUCCESSFULLY": "The new leader was updated successfully.",
+    "EMAIL_SENT_SUCCESSFULLY": "The email was sent successfully.",
+    "EMAIL_NOT_SENT": "Your email could not be sent. Please try again later.",
+    "TABLE_RESERVED_SUCCESSFULLY": "Your reservation was successful.",
+    "RESERVATIONS_RESET_SUCCESSFULLY": "Reservation reset was successful.",
+    "LANDMARK_UPDATED_SUCCESSFULLY": "Reservation update was successful."
+  }
+}

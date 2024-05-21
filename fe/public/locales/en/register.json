@@ -1,0 +1,12 @@
+{
+  "title": "Register",
+  "username": "Username",
+  "password": "Password",
+  "confirmPassword": "Confirm password",
+  "registerButton": "Register",
+  "email": "Email",
+  "errors": {
+    "password": "The passwords are not matching.",
+    "email": "The email format is invalid."
+  }
+}

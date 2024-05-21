@@ -1,0 +1,40 @@
+{
+  "labels": {
+    "season": "Season",
+    "game": "Game",
+    "numberOfTeams": "Number of teams",
+    "round": "Round"
+  },
+  "nextButton": "Next",
+  "backButton": "Back",
+  "table": {
+    "teamName": "Team name",
+    "joker": "Joker",
+    "totalPoints": "Total"
+  },
+  "gameName": "Season {{season}} Game {{game}}",
+  "filters": {
+    "season": "Season",
+    "game": "Game",
+    "noSeasons": "There are no seasons available",
+    "noGames": "There are no games available"
+  },
+  "buttons": {
+    "newGame": "Add game",
+    "updateGame": "Update game",
+    "deleteGame": "Delete game"
+  },
+  "deleteModal": {
+    "title": "Delete game",
+    "content": "Are you sure you want to delete game {{game}} of season {{season}}?",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  },
+  "tooltip": {
+    "joker": " = Joker",
+    "first": " = 1st place",
+    "second": " = 2nd place",
+    "third": " = 3rd place",
+    "last": " = Last place"
+  }
+}

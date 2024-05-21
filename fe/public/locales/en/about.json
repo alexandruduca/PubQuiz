@@ -1,0 +1,55 @@
+{
+  "title": "About",
+  "ask": {
+    "title": "What are we playing?",
+    "description": "A fun game of logic, intuition, and general culture. A fantastic way to spend an evening out with friends."
+  },
+  "play": {
+    "title": "Who's playing?",
+    "description": "Teams of up to six players (teams with more than six members are not eligible for prizes)."
+  },
+  "price": {
+    "title": "What is the price?",
+    "description": "The participation fee is 80 lei per team."
+  },
+  "location": {
+    "title": "Where?",
+    "description": "Legend Pub",
+    "address": "Anastasie Panu Street 31, Iași 700028"
+  },
+  "clock": {
+    "title": "When?",
+    "description": "Every Wednesday, from 18:45 to 21:30. If changes occur, they will be announced in advance."
+  },
+  "prize": {
+    "title": "Prizes?",
+    "firstPlace": "Voucher worth 150 lei",
+    "secondPlace": "Box of candy",
+    "thirdPlace": "Box of candy",
+    "lastPlace": "A round of shots"
+  },
+  "gameRounds": {
+    "title": "Round formats",
+    "description": "Although there is a lot of variation in the Quiz Iași round typology, the most common round types may be distinguished.",
+    "matrix": {
+      "title": "Matrix round",
+      "description": "The requirements for this kind of round are that every right answer must have a continuous three-letter particle (such as CAM, HAI, or LAC), either at the start, middle, or end of the word. When the correct response consists of several words, it is enough for the specified particle to be present in just one word."
+    },
+    "musicFilm": {
+      "title": "Music and/or Film Round",
+      "description": "There is a weaker logical element in this round format. This round's key elements are sounds (song snippets, movie soundtracks, movie dialogue, etc.) or images (pictures from TV shows, movies, music videos, etc.)."
+    },
+    "connection": {
+      "title": "Connection Round",
+      "description": "In terms of the design of the questions as well as the overall gameplay, it is the most creative round. This round's first seven questions include a traditional format and a fair amount of textual information. The eighth question, \"What is the connection?\" is formulated the same, regardless. Teams must determine the connection or relationship between the right answers to questions one through seven to solve the eighth question. Connections can be divided into two categories: form-based and content-based."
+    },
+    "themed": {
+      "title": "Themed Rounds",
+      "description": "These rounds consist of questions with a common theme, like football, hunting, plants, animals, Formula 1, Darwin Awards, Nobel Prizes, and more. To keep teams interested and involved in the game, organizers strive to cover a wide range of themes during these rounds and maintain a diverse structure."
+    },
+    "mixed": {
+      "title": "Mixed Round",
+      "description": "This is typically the final round of a game. The questions don't follow a consistent logic and may come from a variety of domains. Typically, it serves as a tiebreaker round between team results."
+    }
+  }
+}

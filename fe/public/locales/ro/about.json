@@ -1,0 +1,55 @@
+{
+  "title": "Despre",
+  "ask": {
+    "title": "Ce jucăm?",
+    "description": "Un joc distractiv de logică, intuiție și cultură generală. Un mod excelent de a petrece o seară în oraș cu prietenii."
+  },
+  "play": {
+    "title": "Cine participă?",
+    "description": "Echipe de până la șase persoane (echipele care depășesc numărul de șase membri nu sunt eligibile pentru premii)."
+  },
+  "price": {
+    "title": "Care este prețul?",
+    "description": "Taxa de participare este de 80 lei de echipă."
+  },
+  "location": {
+    "title": "Unde?",
+    "description": "Legend Pub",
+    "address": "Strada Anastasie Panu 31, Iași 700028"
+  },
+  "clock": {
+    "title": "Când?",
+    "description": "În fiecare miercuri, între orele 18:45 și 21:30. Dacă apar modificări, acestea vor fi comunicate în avans."
+  },
+  "prize": {
+    "title": "Premii?",
+    "firstPlace": "Voucher în valoare de 150 lei",
+    "secondPlace": "Cutie cu bomboane",
+    "thirdPlace": "Cutie cu bomboane",
+    "lastPlace": "Un rând de shot-uri"
+  },
+  "gameRounds": {
+    "title": "Formatul rundelor",
+    "description": "Tipologia rundelor Quiz Iași este destul de diversă, dar se poate evidenția un nucleu al celor mai recurente formate de runde.",
+    "matrix": {
+      "title": "Runda Matricială",
+      "description": "La acest tip de rundă toate răspunsurile corecte vor conține aceeași o particulă neîntreruptă din 3 litere (CAM, HAI, LAC, etc.), fie la început, în corpul cuvântului, sau la finalul cuvântului din răspunsul corect. Dacă un răspuns corect este format din mai multe cuvinte, este suficient ca un singur cuvânt să conțină particula anunțată."
+    },
+    "musicFilm": {
+      "title": "Runda Muzică și / sau Film",
+      "description": "Acest format de rundă are cel mai puțin pronunțat elementul logic, datorită faptului că elementele esențiale sunt imaginile (instantanee din filme, seriale, videoclipuri muzicale) sau sunetele (fragmente de cântece, coloane sonore ale filmelor, fragmente de dialog din film)."
+    },
+    "connection": {
+      "title": "Runda Conexiune",
+      "description": "Este cea mai creativă rundă, atât din punct de vedere a alcătuirii întrebărilor, cât și din punct de vedere a jucării întrebărilor. Primele șapte întrebări ale rundei sunt întrebări obișnuite, dar întrebarea a opta are neschimbata formulare „Care este conexiunea”. La a opta întrebare echipele vor scrie legătura / conexiunea dintre răspunsurile corecte de la întrebările 1-7. Conexiunile sunt, în marea majoritate a cazurilor, de două tipuri: de formă și de conținut."
+    },
+    "themed": {
+      "title": "Rundele tematice",
+      "description": "La aceste runde întrebările sunt reunite de o tematică comună: Plante, Animale, Vânătoare, Fotbal, Formula 1, Premiile Darwin, Premiile Nobel etc. Prin intermediul acestor runde organizatorii încearcă să acopere un cadru cât mai divers de tematici, pentru menține viu interesul pentru joc al echipelor."
+    },
+    "mixed": {
+      "title": "Runda Diverse",
+      "description": "Este, în general, ultima rundă a unui joc. Întrebările din cadrul acestei runde nu au o logică comună și pot proveni din domenii diferite. De cele mai multe ori servește drept rundă de departajare între rezultatele echipelor."
+    }
+  }
+}

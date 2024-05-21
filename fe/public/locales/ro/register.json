@@ -1,0 +1,12 @@
+{
+  "title": "Înregistrează-te",
+  "username": "Nume de utilizator",
+  "password": "Parolă",
+  "confirmPassword": "Confirmă parola",
+  "registerButton": "Creează cont",
+  "email": "Email",
+  "errors": {
+    "password": "Parolele nu sunt identice.",
+    "email": "Adresa de email nu respecta formatul."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Întrebări frecvente",
+  "description": "Fie că doriți să învățați cum să jucați, să înțelegeți sistemul nostru de scor sau orice altceva, veți găsi informații utile aici. Am pregatit o colecție de întrebări frecvente pentru a vă oferi o experiența mai ușoară și mai plăcută.",
+  "first": {
+    "question": "Care este structura unui joc și cum se joacă?",
+    "answer": "Întrebările sunt grupate în runde (diferențiate de formatul sau tematicile specifice ale rundei). 6 runde a câte 8 întrebări formează (de obicei) un pachet jucat. Echipele au circa un minut la dispoziție pentru a discuta întrebarea și a găsi răspunsul corect (timpul poate varia în funcție de dificutltate). Pe parcursul întregului minut echipele vor vedea textul întrebării pe ecranele din pub. La finalul fiecărei runde, echipele vor preda spre verificare foile pe care au scris răspunsurile lor. Dată fiind natura verificării răspunsurilor (după fiecare rundă, nu după fiecare întrebare), echipele pot discuta oricând și potențialele întrebări anterioare (din runda curentă) la care nu au găsit încă răspunsul corect."
+  },
+  "second": {
+    "question": "Nu am o echipă. Pot participa la un eveniment?",
+    "answer": "Desigur! Dacă doriți să participați, vă rugăm să contactați organizatorii pentru a putea căuta o echipă care are nevoie de membri."
+  },
+  "third": {
+    "question": "Care este sistemul de punctaj folosit?",
+    "answer": "Un răspuns corect valorează 2 puncte, iar un răspuns apropiat din punct de vedere logic de răspunsul corect, dar insuficient de exact poate fi recompensat cu 1 punct. Decizia finală privind recompensarea răspunsurilor cu 2 puncte sau 1 punct aparține organizatorilor jocului. În caz de răspuns greșit echipele nu primesc puncte, dar nici nu sunt depunctate."
+  },
+  "fourth": {
+    "question": "Ce se întâmplă în caz de egalitate între două echipe?",
+    "answer": "În astfel de cazuri, folosim următorul criteriu: evaluăm rezultatele fiecărei runde, începând de la sfârșitul jocului, până când putem concluziona un câștigător."
+  },
+  "fifth": {
+    "question": "Ce face Quiz Iași diferit de alte Pub Quizuri?",
+    "answer": "Pub Quiz-ul tipic (inspirat din modelul britanic) se bazează în mare măsură pe recuperarea informațiilor din memorie, fără a necesita efort mental suplimentar. Pe de altă parte, Quiz Iași se concentrează mai mult pe componenta logică a unei întrebări, încurajând colaborarea în echipă și discuțiile argumentative între echipe."
+  }
+}

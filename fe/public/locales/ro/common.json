@@ -1,0 +1,33 @@
+{
+  "modal": {
+    "cancel": "Anulează"
+  },
+  "snackbarMessage": {
+    "success": "Cererea ta a fost procesată cu succes.",
+    "error": "A apărut o problemă, te rugăm să încercați din nou.",
+    "CREDENTIALS_REQUIRED": "Sesiunea ta a expirat. Te rugăm să te autentifici din nou.",
+    "GAME_UPDATED_SUCCESSFULLY": "Jocul a fost actualizat cu succes.",
+    "GAME_CREATED_SUCCESSFULLY": "Jocul a fost adăugat cu succes.",
+    "GAME_DELETED_SUCCESFULLY": "Jocul a fost șters cu succes.",
+    "GAME_ALREADY_EXISTS": "Jocul cu acest număr și sezon există deja.",
+    "REGISTER_SUCCESS": "Contul a fost creat cu succes.",
+    "USERNAME_ALREADY_EXISTS": "Există deja un cont cu acest nume de utilizator.",
+    "EMAIL_ALREADY_EXISTS": "Există deja un cont cu acestă adresă de email.",
+    "TEAM_CREATED_SUCCESSFULLY": "Echipa a fost creată cu succes.",
+    "TEAM_ALREADY_EXISTS": "Echipa cu acest nume există deja. Introdu un alt nume de echipă.",
+    "JOIN_TEAM_REQUEST": "Cererea ta de a te alătura echipei a fost trimisă.",
+    "JOIN_REQUEST_ALREADY_SENT": "Ai solicitat deja să te alături acestei echipe.",
+    "TEAM_DELETED_SUCCESSFULLY": "Echipa a fost ștearsă cu succes.",
+    "TEAM_NOT_DELETED": "Echipa nu a putut fi ștearsă.",
+    "JOIN_REQUEST_ACCEPTED": "Membrul a fost acceptat in echipă.",
+    "JOIN_REQUEST_DECLINED": "Membrul nu a fost acceptat in echipă.",
+    "TEAM_LEFT_SUCCESSFULLY": "Ai părăsit echipa cu succes.",
+    "KICK_MEMBER_SUCCESSFULLY": "Membrul a fost înlăturat din echipă",
+    "LEADER_UPDATED_SUCCESSFULLY": "Noul lider a fost actualizat cu succes.",
+    "EMAIL_SENT_SUCCESSFULLY": "Emailul a fost trimis cu succes.",
+    "EMAIL_NOT_SENT": "Emailul tău nu a putut fi trimis. Încearcă din nou mai târziu.",
+    "TABLE_RESERVED_SUCCESSFULLY": "Rezervarea ta a fost efectuată cu succes.",
+    "RESERVATIONS_RESET_SUCCESSFULLY": "Resetarea rezervărilor a fost efectuată cu succes.",
+    "LANDMARK_UPDATED_SUCCESSFULLY": "Actualizarea rezervării a fost efectuată cu succes."
+  }
+}

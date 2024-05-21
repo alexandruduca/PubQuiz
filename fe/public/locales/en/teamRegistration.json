@@ -1,0 +1,14 @@
+{
+    "reservationForm": {
+        "availableTables": "Available tables",
+        "submit": "Submit"
+    },
+    "adminReservationForm": {
+        "reset": "Reset reservations",
+        "reservedTeam": "Team",
+        "tableName": "Table name",
+        "recurrentReservation": "Recurrent reservation",
+        "submit": "Submit",
+        "removeReservation": "Remove"
+    }
+}

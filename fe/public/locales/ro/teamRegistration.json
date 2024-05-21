@@ -1,0 +1,14 @@
+{
+    "reservationForm": {
+        "availableTables": "Mese disponibile",
+        "submit": "Trimite"
+    },
+    "adminReservationForm": {
+        "reset": "Resetează rezervările",
+        "reservedTeam": "Echipa",
+        "tableName": "Numărul mesei",
+        "recurrentReservation": "Rezervare recurentă",
+        "submit": "Trimite",
+        "removeReservation": "Șterge"
+    }
+}

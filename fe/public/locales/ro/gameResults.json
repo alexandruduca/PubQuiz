@@ -1,0 +1,40 @@
+{
+  "labels": {
+    "season": "Sezon",
+    "game": "Joc",
+    "numberOfTeams": "Numărul echipelor",
+    "round": "Runda"
+  },
+  "nextButton": "Înainte",
+  "backButton": "Înapoi",
+  "table": {
+    "teamName": "Nume echipă",
+    "joker": "Joker",
+    "totalPoints": "Total"
+  },
+  "gameName": "Sezonul {{season}} Jocul {{game}}",
+  "filters": {
+    "season": "Sezon",
+    "game": "Joc",
+    "noSeasons": "Nu sunt sezoane disponibile",
+    "noGames": "Nu sunt jocuri disponibile"
+  },
+  "buttons": {
+    "newGame": "Adaugă joc",
+    "updateGame": "Actualizează joc",
+    "deleteGame": "Șterge joc"
+  },
+  "deleteModal": {
+    "title": "Șterge joc",
+    "content": "Ești sigur că vrei să ștergi jocul {{game}} din sezonul {{season}}?",
+    "cancel": "Anulează",
+    "delete": "Șterge"
+  },
+  "tooltip": {
+    "joker": " = Joker",
+    "first": " = Locul 1",
+    "second": " = Locul 2",
+    "third": " = Locul 3",
+    "last": " = Ultimul loc"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "languageButtons": {
+    "en": "Engleză",
+    "ro": "Română"
+  },
+  "navbar": {
+    "about": "Despre joc",
+    "teamRegistration": "Înscrierea echipelor",
+    "gameResults": "Rezultate joc",
+    "corporateGames": "Jocuri corporative",
+    "teams": "Echipe",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "login": "Autentificare",
+    "register": "Înregistrare"
+  },
+  "logout": "Deloghează-te",
+  "footer": "Pub Quiz Iași™"
+}
